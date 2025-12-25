@@ -1,0 +1,1 @@
+#install library nltk numpy with pip command
