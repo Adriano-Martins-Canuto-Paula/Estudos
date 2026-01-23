@@ -1,0 +1,1 @@
+#Finalizado dentro da plataforma, tendo realizado atividades como inputs outputs variaveis.
